@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 563887662,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 312925989,
+          "is_bot": false,
+          "first_name": "Vova",
+          "last_name": "Kovtun",
+          "username": "vovakovtun1",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 312925989,
+          "first_name": "Vova",
+          "last_name": "Kovtun",
+          "username": "vovakovtun1",
+          "type": "private"
+        },
+        "date": 1577464787,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 563887663,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 312925989,
+          "is_bot": false,
+          "first_name": "Vova",
+          "last_name": "Kovtun",
+          "username": "vovakovtun1",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 312925989,
+          "first_name": "Vova",
+          "last_name": "Kovtun",
+          "username": "vovakovtun1",
+          "type": "private"
+        },
+        "date": 1577466254,
+        "text": "привет"
+      }
+    }
+  ]
+}
